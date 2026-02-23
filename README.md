@@ -20,6 +20,7 @@ This project showcases:
 
 ## Project Structure
 
+```
 k8s-mlops-pipeline/
 │
 ├── LICENSE
@@ -29,6 +30,7 @@ k8s-mlops-pipeline/
 ├── hello_world_pipeline.yaml
 ├── iris_pipeline.yaml
 
+```
 
 ---
 
@@ -74,9 +76,9 @@ Perfect for beginners and debugging.
 
 ---
 
-## 🐳 Setup & Usage
+## Setup & Usage
 
-### 1️⃣ Clone Repository
+###  Clone Repository
 
 ```bash
 git clone https://github.com/<your-username>/k8s-mlops-pipeline.git
